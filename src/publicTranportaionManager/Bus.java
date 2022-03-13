@@ -5,7 +5,7 @@ public class Bus {
   private int numberOfUser;
   private int busIncome;
 
-  private public PriceStructure prices = new PriceStructure();
+  private PriceStructure prices = new PriceStructure();
   private int price = prices.getBus();
 
   //생성자
