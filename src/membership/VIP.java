@@ -1,4 +1,4 @@
-package Membership;
+package membership;
 
 public class VIP extends Silver {
   private String agent;

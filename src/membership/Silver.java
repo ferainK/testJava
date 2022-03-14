@@ -1,4 +1,4 @@
-package Membership;
+package membership;
 
 public class Silver {
   protected String id;

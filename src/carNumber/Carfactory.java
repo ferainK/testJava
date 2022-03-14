@@ -1,4 +1,4 @@
-package CarNumber;
+package carNumber;
 
 public class Carfactory {
   private int number = 7001;

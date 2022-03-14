@@ -1,4 +1,4 @@
-package Membership;
+package membership;
 
 public class Gold extends Silver {
   private String agent;
