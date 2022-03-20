@@ -16,7 +16,7 @@ public class MyNode {
   }
 
   public String getData(){
-
+    return "";
   }
 
 }
